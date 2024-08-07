@@ -34,12 +34,11 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name: Gun Suer
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-OEdiCWLcOJZYaa3):
+ - Womanium Program Enrollment ID: WQ24-OEdiCWLcOJZYaa3
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+Before attempting the two main challenges of our project, we focused on the fundamentals of quantum machine learning by following the PennyLane codebooks and challenges for task 1. We implemented a quantum variational classifier, and a quantum convolutional neural network for tasks 2 and 3. The QCNN demo was particularly helpful, because it introduced the main components for our project. For task 4, we were able to learn the sine function from a small number of data points, using a parametrized quantum circuit ansatz. We optimized over the mean square loss function, and also tested for generalizability on novel test data. For task 5, we relied heavily on the preprocessing of images using random quantum circuits which we learned from the PennyLane QCNN notebook. We have observed that the QCNN with random quantum layers offer a performance improvement over the classical convolutional neural network.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
