@@ -34,6 +34,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name: Gun Suer
+ - Affiliation: Northeastern University
+ - E-mail: suer.g@northeastern.edu
  - Womanium Program Enrollment ID: WQ24-OEdiCWLcOJZYaa3
 
 
